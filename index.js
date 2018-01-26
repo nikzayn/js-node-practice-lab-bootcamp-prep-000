@@ -4,7 +4,7 @@ var name = "Nikhil"
 var height = "180"
 
 console.log("Nikhil")
-console.log(name)
+console.log("name")
 
 console.log(160)
-console.log(parseInt(height) + 1)
+console.log(height)
